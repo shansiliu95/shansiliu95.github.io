@@ -14,7 +14,7 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 * 2013 - 2017: B.E. from Department of Biomedical Engineering, Beihang University, China
 
 <br>
-# Research
+# Publication
 
 ## Vision-and-language
 
