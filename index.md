@@ -14,6 +14,10 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 * 2015 - 2016: Exchange Student,  Czech Technical University in Prague, Czech Republic
 * 2013 - 2017: B.E. from Department of Biomedical Engineering, Beihang University, China
 
+## Experience
+
+* 2020.05 - 2020.08: Research Intern at Bytedance, Mountain View. My advisor is [Jitong Chen] (http://jitongchen.com/)
+
 # Publication
 
 * **Siyuan Shan**, Yang Li, Junier Oliva. "[Meta-Neighborhoods](https://arxiv.org/pdf/1909.09140.pdf)," in _Neural Information Processing Systems (NeurIPS) 2020_.
