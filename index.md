@@ -17,9 +17,13 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 # Publication
 
 * **Siyuan Shan**, Yang Li, Junier Oliva. "[Meta-Neighborhoods](https://arxiv.org/pdf/1909.09140.pdf)," in _NeurIPS 2020_.
+
 * Yang Li, Haidong Yi, Christopher M Bender, **Siyuan Shan**, Junier Oliva. "[Exchangeable Neural ODE for Set Modeling](https://arxiv.org/pdf/2008.02676.pdf)," in _NeurIPS 2020_.
+
 * Meijun Liu, Jicong Zhang, Wenxiao Jia, Qi Chang, **Siyuan Shan**, Yegang Hu, Dangxiao Wang. "[Enhanced executive attention efficiency after adaptive force control training: behavioural and physiological results](https://www.sciencedirect.com/science/article/pii/S0166432818312464)," in _Behavioural Brain Research 2019_.
+
 * Yan Xu, **Siyuan Shan**, Ziming Qiu, Zhipeng Jia, Zhengyang Shen, Yipei Wang, Mengfei Shi, I Eric, Chao Chang. "[End-to-end subtitle detection and recognition for videos in East Asian languages via CNN ensemble](https://www.sciencedirect.com/science/article/abs/pii/S092359651730173X)," in _Signal Processing: Image Communication 2018_.
+
 * **Siyuan Shan**, Wen Yan, Xiaoqing Guo, Eric I-Chao Chang, Yubo Fan, Yan Xu. "[Unsupervised end-to-end learning for deformable medical image registration](https://arxiv.org/pdf/1711.08608.pdf)," in _Arxiv 2017_.
 
 
