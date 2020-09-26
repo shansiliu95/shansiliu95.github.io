@@ -4,14 +4,14 @@ layout: default
 
 # About Me
 
-I'm Yubo Zhang, a Ph.D. candidate in the Department of Computer Science, UNC-Chapel Hill, working with Prof. [Stephen Pizer](https://cs.unc.edu/people/stephen-m-pizer/). My research interests lie in deep learning approaches for medical image analysis and 3D reconstruction. In the first two years of my stay at UNC, I was working with Prof. [Mohit Bansal](http://www.cs.unc.edu/~mbansal/), focusing on language-and-vision grounding tasks.
+I'm Siyuan Shan (单思远), a Ph.D. candidate in the Department of Computer Science, UNC-Chapel Hill, working with Prof. [Junier Oliva](https://cs.unc.edu/people/junier-oliva/). My research interests lie in machine learning, especially meta learning and set modeling.  
 
-I received my bachelor's degree from the Department of Automation, Tsinghua University in 2018. During undergraduate studying, I spent the summer of 2017 at University of Southern California working with Prof. [C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh), focusing on medical image processing.
+I received my bachelor's degree from the Department of Biomedical Engineering, Beihang University in 2017. During undergraduate studying, I was working with Prof. [Yan Xu](https://scholar.google.com/citations?user=D01Xtx4AAAAJ&hl=en), focusing on medical image registration and video text recognition.
 
 ## Education
 
-* 2018 - Present: Ph.D. candidate in Computer Science, UNC-Chapel Hill, USA
-* 2014 - 2018: B.E. from Department of Automation, Tsinghua University, China
+* 2018 - Present: Ph.D. candidate in Computer Science, The University of North Carolina at Chapel Hill, USA
+* 2013 - 2017: B.E. from Department of Biomedical Engineering, Beihang University, China
 
 <br>
 # Research
