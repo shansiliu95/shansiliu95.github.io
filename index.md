@@ -15,4 +15,6 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 
 <br>
 # Publication
-todo
+* **Siyuan Shan**\*, Yang Li\*, Junier Oliva. "[Meta-Neighborhoods](https://arxiv.org/pdf/1909.09140.pdf)," in _NeurIPS 2020_.
+
+* **Siyuan Shan**\*, Yang Li\*, Junier Oliva. "[Meta-Neighborhoods](https://arxiv.org/pdf/1909.09140.pdf)," in _NeurIPS 2020_.
