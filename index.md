@@ -13,7 +13,6 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 * 2018 - Present: Ph.D. candidate in Computer Science, The University of North Carolina at Chapel Hill, USA
 * 2013 - 2017: B.E. from Department of Biomedical Engineering, Beihang University, China
 
-<br>
 # Publication
 
 * **Siyuan Shan**, Yang Li, Junier Oliva. "[Meta-Neighborhoods](https://arxiv.org/pdf/1909.09140.pdf)," in _Neural Information Processing Systems (NeurIPS) 2020_.
