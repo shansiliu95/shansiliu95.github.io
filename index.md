@@ -16,9 +16,9 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 <br>
 # Publication
 
-* **Siyuan Shan**, Yang Li, Junier Oliva. "[Meta-Neighborhoods](https://arxiv.org/pdf/1909.09140.pdf)," in _NeurIPS 2020_.
+* **Siyuan Shan**, Yang Li, Junier Oliva. "[Meta-Neighborhoods](https://arxiv.org/pdf/1909.09140.pdf)," in _Neural Information Processing Systems (NeurIPS) 2020_.
 
-* Yang Li, Haidong Yi, Christopher M Bender, **Siyuan Shan**, Junier Oliva. "[Exchangeable Neural ODE for Set Modeling](https://arxiv.org/pdf/2008.02676.pdf)," in _NeurIPS 2020_.
+* Yang Li, Haidong Yi, Christopher M Bender, **Siyuan Shan**, Junier Oliva. "[Exchangeable Neural ODE for Set Modeling](https://arxiv.org/pdf/2008.02676.pdf)," in _Neural Information Processing Systems (NeurIPS) 2020_.
 
 * Meijun Liu, Jicong Zhang, Wenxiao Jia, Qi Chang, **Siyuan Shan**, Yegang Hu, Dangxiao Wang. "[Enhanced executive attention efficiency after adaptive force control training: behavioural and physiological results](https://www.sciencedirect.com/science/article/pii/S0166432818312464)," in _Behavioural Brain Research 2019_.
 
