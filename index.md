@@ -16,7 +16,7 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 
 ## Experience
 
-* 2020.05 - 2020.08: Research Intern at Bytedance, Mountain View. My advisor is [Jitong Chen] (http://jitongchen.com/)
+* 2020.05 - 2020.08: Research Intern at Bytedance, Mountain View. My advisor is [Jitong Chen](http://jitongchen.com/)
 
 # Publication
 
