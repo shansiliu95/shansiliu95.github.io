@@ -11,7 +11,7 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 ## Education
 
 * 2018 - Present: Ph.D. candidate in Computer Science, The University of North Carolina at Chapel Hill, USA
-* 2015 - 2016: Exchange Student,  Czech technical university in Prague, Czech Republic
+* 2015 - 2016: Exchange Student,  Czech Technical University in Prague, Czech Republic
 * 2013 - 2017: B.E. from Department of Biomedical Engineering, Beihang University, China
 
 # Publication
