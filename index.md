@@ -16,7 +16,8 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 
 ## Experience
 
-* 2020.05 - 2020.08: Research Intern at Bytedance, Mountain View. My advisor is [Jitong Chen](http://jitongchen.com/)
+* 2020.05 - 2020.08: Research Intern at Bytedance, Mountain View. My advisor is [Jitong Chen](http://jitongchen.com/).
+* 2018.03 - 2018.06: Kaggle Freesound General-Purpose Audio Tagging Challenge, 16/558 (top 3%).
 
 # Publication
 
