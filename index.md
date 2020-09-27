@@ -36,5 +36,5 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 * I was born in Beijing.
 
 * I loves playing soccer and I am a big fan of Lionel Messi and FC Barcelona.
-<img width="120" height="90" src="/assets/img/socer.jpg"/>
+<img width="120" height="90" src="/assets/img/soccer.jpg"/>
 
