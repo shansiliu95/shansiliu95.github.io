@@ -20,6 +20,7 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 * 2018.03 - 2018.06: Kaggle Freesound General-Purpose Audio Tagging Challenge, 16/558 (top 3%).
 
 # Publication
+* **Siyuan Shan**, Junier Oliva. "[NRTSI: Non-Recurrent Time Series Imputation for Irregularly-sampled Data](https://arxiv.org/pdf/2102.03340.pdf)," in _Arxiv 2021_.
 
 * **Siyuan Shan**, Yang Li, Junier Oliva. "[Meta-Neighborhoods](https://papers.nips.cc/paper/2020/file/35464c848f410e55a13bb9d78e7fddd0-Paper.pdf)," in _Neural Information Processing Systems (NeurIPS) 2020_.
 
