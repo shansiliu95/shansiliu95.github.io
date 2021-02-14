@@ -33,7 +33,7 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 * **Siyuan Shan**, Wen Yan, Xiaoqing Guo, Eric I-Chao Chang, Yubo Fan, Yan Xu. "[Unsupervised end-to-end learning for deformable medical image registration](https://arxiv.org/pdf/1711.08608.pdf)," in _Arxiv 2017_.
 
 # Acamedic Service
-* Reviewr for ICML 2021.
+* Reviewer for ICML 2021.
 
 # MISC
 
