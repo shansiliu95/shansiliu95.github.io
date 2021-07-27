@@ -15,12 +15,14 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 * 2013 - 2017: B.E. from Department of Biomedical Engineering, [Beihang University](https://ev.buaa.edu.cn/), China
 
 ## Experience
-
+* 2021.05 - 2021.08: Research Intern at Bytedance, Mountain View. My advisor is [Hanoi Hantrakul⁣](https://www.linkedin.com/in/lamtharn-hanoi-hantrakul-0a8946b4/) and [Jitong Chen](http://jitongchen.com/). 
 * 2020.05 - 2020.08: Research Intern at Bytedance, Mountain View. My advisor is [Jitong Chen](http://jitongchen.com/).
 * 2018.03 - 2018.06: Kaggle Freesound General-Purpose Audio Tagging Challenge, 16/558 (top 3%).
 
 # Publication
 * **Siyuan Shan**, Yang Li, Junier Oliva. "[NRTSI: Non-Recurrent Time Series Imputation](https://arxiv.org/pdf/2102.03340.pdf)," in _Arxiv 2021_.
+
+* Yang Li, **Siyuan Shan**, Qin Liu, Junier Oliva. "[Towards Robust Active Feature Acquisition](https://arxiv.org/pdf/2107.04163.pdf)," in _Arxiv 2021_.
 
 * **Siyuan Shan**, Yang Li, Junier Oliva. "[Meta-Neighborhoods](https://papers.nips.cc/paper/2020/file/35464c848f410e55a13bb9d78e7fddd0-Paper.pdf)," in _Neural Information Processing Systems (NeurIPS) 2020_.
 
