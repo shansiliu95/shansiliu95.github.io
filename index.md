@@ -20,7 +20,7 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 * 2018.03 - 2018.06: Kaggle Freesound General-Purpose Audio Tagging Challenge, 16/558 (top 3%).
 
 # Publication
-* **Siyuan Shan**, Lamtharn Hantrakul, Jitong Chen, Matt Avent, David Trevelyan. "[Differentiable Wavetable Synthesis]()," in submission to ICASSP 2022_.
+* **Siyuan Shan**, Lamtharn Hantrakul, Jitong Chen, Matt Avent, David Trevelyan. "[Differentiable Wavetable Synthesis]()," in submission to ICASSP 2022.
 
 * **Siyuan Shan**, Yang Li, Junier Oliva. "[NRTSI: Non-Recurrent Time Series Imputation](https://arxiv.org/pdf/2102.03340.pdf)," in _Arxiv 2021_.
 
