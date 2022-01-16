@@ -23,7 +23,7 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 
 * **Siyuan Shan**, Vishal Baskaran, Haidong Yi, Jolene Ranek, Natalie Stanley and Junier Oliva. "[Interpretable Single-Cell Set Classification with Kernel Mean Embeddings]()," in submission to _ISMB 2022_.
 
-*  Vishal Athreya Baskaran, Jolene Ranek, **Siyuan Shan**, Natalie Stanley and Junier Oliva. "[Rethinking Sketching of Multi-Sample Single-Cell Datasets]()," in submission to _ISMB 2022_.
+*  Vishal Baskaran, Jolene Ranek, **Siyuan Shan**, Natalie Stanley and Junier Oliva. "[Rethinking Sketching of Multi-Sample Single-Cell Datasets]()," in submission to _ISMB 2022_.
 
 * **Siyuan Shan**, Lamtharn Hantrakul, Jitong Chen, Matt Avent, David Trevelyan. "[Differentiable Wavetable Synthesis](https://arxiv.org/pdf/2111.10003.pdf)," in submission to _ICASSP 2022_.
 
