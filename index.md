@@ -22,7 +22,7 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 
 # Publication
 
-* **Siyuan Shan**, Vishal Baskaran, Haidong Yi, Jolene Ranek, Natalie Stanley and Junier Oliva. "[Interpretable Single-Cell Set Classification with Kernel Mean Embeddings](https://arxiv.org/pdf/2201.07322.pdf)," in _ ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022 (Oral)_.
+* **Siyuan Shan**, Vishal Baskaran, Haidong Yi, Jolene Ranek, Natalie Stanley and Junier Oliva. "[Interpretable Single-Cell Set Classification with Kernel Mean Embeddings](https://arxiv.org/pdf/2201.07322.pdf)," in _ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022 (Oral)_.
 
 *  Vishal Baskaran, Jolene Ranek, **Siyuan Shan**, Natalie Stanley and Junier Oliva. "[Rethinking Sketching of Multi-Sample Single-Cell Datasets]()," in _ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022_.
 
