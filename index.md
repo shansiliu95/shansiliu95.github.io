@@ -10,11 +10,12 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 
 ## Education
 
-* 2018 - Present: Ph.D. candidate in Computer Science, [The University of North Carolina at Chapel Hill](https://www.unc.edu/), USA
+* 2018 - 2022: Ph.D. in Computer Science, [The University of North Carolina at Chapel Hill](https://www.unc.edu/), USA
 * 2015 - 2016: Exchange Student, [Czech Technical University in Prague](https://www.cvut.cz/en), Czech Republic
 * 2013 - 2017: B.E. from Department of Biomedical Engineering, [Beihang University](https://ev.buaa.edu.cn/), China
 
 ## Experience
+* 2023.02 - now: Senior Software Engineer - Conversational AI at Walmart Global Tech.
 * 2022.05 - 2022.08: Research Intern at Bytedance, Mountain View. My advisor is [Mingbo Ma](http://mingboma.com/). 
 * 2021.05 - 2021.08: Research Intern at Bytedance, Mountain View. My advisor is [Hanoi Hantrakul⁣](https://www.linkedin.com/in/lamtharn-hanoi-hantrakul-0a8946b4/) and [Jitong Chen](http://jitongchen.com/). 
 * 2020.05 - 2020.08: Research Intern at Bytedance, Mountain View. My advisor is [Jitong Chen](http://jitongchen.com/).
