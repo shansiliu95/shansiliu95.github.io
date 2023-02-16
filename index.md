@@ -23,13 +23,13 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 
 # Publication
 
+* **Siyuan Shan**, Yang Li, Junier Oliva. "[NRTSI: Non-Recurrent Time Series Imputation](https://arxiv.org/pdf/2102.03340.pdf)," in _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023_.
+
 * **Siyuan Shan**, Vishal Baskaran, Haidong Yi, Jolene Ranek, Natalie Stanley and Junier Oliva. "[Transparent Single-Cell Set Classification with Kernel Mean Embeddings](https://arxiv.org/pdf/2201.07322.pdf)," in _ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022 (Best Paper Award)_.
 
 *  Vishal Baskaran, Jolene Ranek, **Siyuan Shan**, Natalie Stanley and Junier Oliva. "[Distribution-based Sketching of Single-Cell Samples](https://arxiv.org/pdf/2207.00584.pdf)," in _ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022_.
 
 * **Siyuan Shan**, Lamtharn Hantrakul, Jitong Chen, Matt Avent, David Trevelyan. "[Differentiable Wavetable Synthesis](https://arxiv.org/pdf/2111.10003.pdf)," in _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022_.
-
-* **Siyuan Shan**, Yang Li, Junier Oliva. "[NRTSI: Non-Recurrent Time Series Imputation](https://arxiv.org/pdf/2102.03340.pdf)," in _Arxiv 2021_.
 
 * Yang Li, **Siyuan Shan**, Qin Liu, Junier Oliva. "[Towards Robust Active Feature Acquisition](https://arxiv.org/pdf/2107.04163.pdf)," in _Arxiv 2021_.
 
