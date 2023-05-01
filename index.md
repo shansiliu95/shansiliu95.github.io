@@ -33,7 +33,7 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 
 * Yang Li, **Siyuan Shan**, Qin Liu, Junier Oliva. "[Towards Robust Active Feature Acquisition](https://arxiv.org/pdf/2107.04163.pdf)," in _Arxiv 2021_.
 
-* **Siyuan Shan**, Yang Li, Junier Oliva. "[Meta-Neighborhoods](https://papers.nips.cc/paper/2020/file/35464c848f410e55a13bb9d78e7fddd0-Paper.pdf)," in _Neural Information Processing Systems (NeurIPS) 2020_.
+* **Siyuan Shan**, Yang Li, Junier Oliva. "[Meta-Neighborhoods](https://papers.nips.cc/paper/2020/file/35464c848f410e55a13bb9d78e7fddd0-Paper.pdf)," in _Neural Information Processing Systems (NeurIPS) 2020_. [Talk](https://crossminds.ai/video/meta-neighborhoods-606fe3c5f43a7f2f827c02c9/)
 
 * Yang Li, Haidong Yi, Christopher M Bender, **Siyuan Shan**, Junier Oliva. "[Exchangeable Neural ODE for Set Modeling](https://proceedings.neurips.cc/paper/2020/file/4db73860ecb5533b5a6c710341d5bbec-Paper.pdf)," in _Neural Information Processing Systems (NeurIPS) 2020_.
 
