@@ -29,7 +29,7 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 
 *  Vishal Baskaran, Jolene Ranek, **Siyuan Shan**, Natalie Stanley and Junier Oliva. "[Distribution-based Sketching of Single-Cell Samples](https://arxiv.org/pdf/2207.00584.pdf)," in _ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022_.
 
-* **Siyuan Shan**, Lamtharn Hantrakul, Jitong Chen, Matt Avent, David Trevelyan. "[Differentiable Wavetable Synthesis](https://arxiv.org/pdf/2111.10003.pdf)," in _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022_. [[Talk]](https://www.youtube.com/watch?v=mkHijEUR0wU)
+* **Siyuan Shan**, Lamtharn Hantrakul, Jitong Chen, Matt Avent, David Trevelyan. "[Differentiable Wavetable Synthesis](https://arxiv.org/pdf/2111.10003.pdf)," in _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022_. [[Talk]](https://www.youtube.com/watch?v=mkHijEUR0wU) [[3rd Party Codes]](https://github.com/gudgud96/diff-wave-synth)
 
 * Yang Li, **Siyuan Shan**, Qin Liu, Junier Oliva. "[Towards Robust Active Feature Acquisition](https://arxiv.org/pdf/2107.04163.pdf)," in _Arxiv 2021_.
 
