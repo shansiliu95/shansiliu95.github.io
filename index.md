@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-I'm Siyuan Shan (单思远) with a Ph.D. degree in Computer Science obtained from UNC-Chapel Hill, working with Prof. [Junier Oliva](https://cs.unc.edu/people/junier-oliva/). My research interests lie in machine learning, especially meta learning, time series imputation, audio synthesis and set modeling.  
+I'm Siyuan Shan (单思远) with a Ph.D. degree in Computer Science obtained from UNC-Chapel Hill, working with Prof. [Junier Oliva](https://cs.unc.edu/people/junier-oliva/). My research interests lie in machine learning, especially audio genAI, time series imputation, meta learning, and set modeling.  
 
 I received my bachelor's degree from the Department of Biomedical Engineering, Beihang University in 2017. During undergraduate studying, I was working with Prof. [Yan Xu](https://scholar.google.com/citations?user=D01Xtx4AAAAJ&hl=en), focusing on medical image registration and video text recognition.
 
@@ -47,6 +47,9 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 
 # Acamedic Service
 * Reviewer for ICML 2021-2024, NeurIPS 2021-2023, ICLR 2022-2024, ACM-MM 2022, TCBB, Interspeech 2023-2024, WASPAA 2023, ICASSP 2024.
+
+# Patent
+* "[Differentiable wavetable synthesizer](https://patents.google.com/patent/US20230154451A1/en)," in _US Patent App. 17/525,814_.
 
 # MISC
 
