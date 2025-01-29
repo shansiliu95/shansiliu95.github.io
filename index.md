@@ -25,9 +25,9 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 
 * **Siyuan Shan**, Yang Li, Amartya Banerjee, Junier B. Oliva. "[Phoneme Hallucinator: One-shot Voice Conversion via Set Expansion](https://arxiv.org/pdf/2308.06382.pdf)," in _AAAI Conference on Artificial Intelligence (AAAI) 2024_. [[Demo, Codes]](https://phonemehallucinator.github.io/) [[Talk]](https://www.youtube.com/watch?v=nWK3tRGdn4k)
 
-* **Siyuan Shan**, Yang Li, Junier Oliva. "[NRTSI: Non-Recurrent Time Series Imputation](https://arxiv.org/pdf/2102.03340.pdf)," in _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023 (Oral)_. [[Talk]](https://youtu.be/yQYF9MZ8Ots)
+* **Siyuan Shan**, Yang Li, Junier Oliva. "[NRTSI: Non-Recurrent Time Series Imputation](https://arxiv.org/pdf/2102.03340.pdf)," in _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023 (Oral)_. [[Talk]](https://youtu.be/yQYF9MZ8Ots) [[Codes]](https://github.com/lupalab/NRTSI)
 
-* **Siyuan Shan**, Vishal Baskaran, Haidong Yi, Jolene Ranek, Natalie Stanley and Junier Oliva. "[Transparent Single-Cell Set Classification with Kernel Mean Embeddings](https://arxiv.org/pdf/2201.07322.pdf)," in _ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022 (Best Paper Award)_. [[Talk]](https://www.youtube.com/watch?v=fiQnFgyx0mk)
+* **Siyuan Shan**, Vishal Baskaran, Haidong Yi, Jolene Ranek, Natalie Stanley and Junier Oliva. "[Transparent Single-Cell Set Classification with Kernel Mean Embeddings](https://arxiv.org/pdf/2201.07322.pdf)," in _ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022 (Best Paper Award)_. [[Talk]](https://www.youtube.com/watch?v=fiQnFgyx0mk) [[Codes]](https://github.com/shansiliu95/CKME)
 
 *  Vishal Baskaran, Jolene Ranek, **Siyuan Shan**, Natalie Stanley and Junier Oliva. "[Distribution-based Sketching of Single-Cell Samples](https://arxiv.org/pdf/2207.00584.pdf)," in _ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022_.
 
@@ -35,7 +35,7 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 
 * Yang Li, **Siyuan Shan**, Qin Liu, Junier Oliva. "[Towards Robust Active Feature Acquisition](https://arxiv.org/pdf/2107.04163.pdf)," in _Arxiv 2021_.
 
-* **Siyuan Shan**, Yang Li, Junier Oliva. "[Meta-Neighborhoods](https://papers.nips.cc/paper/2020/file/35464c848f410e55a13bb9d78e7fddd0-Paper.pdf)," in _Neural Information Processing Systems (NeurIPS) 2020_. [[Talk]](https://slideslive.com/38936025/metaneighborhoods)
+* **Siyuan Shan**, Yang Li, Junier Oliva. "[Meta-Neighborhoods](https://papers.nips.cc/paper/2020/file/35464c848f410e55a13bb9d78e7fddd0-Paper.pdf)," in _Neural Information Processing Systems (NeurIPS) 2020_. [[Talk]](https://slideslive.com/38936025/metaneighborhoods) [[Codes]](https://github.com/lupalab/Meta-Neighborhoods)
 
 * Yang Li, Haidong Yi, Christopher M Bender, **Siyuan Shan**, Junier Oliva. "[Exchangeable Neural ODE for Set Modeling](https://proceedings.neurips.cc/paper/2020/file/4db73860ecb5533b5a6c710341d5bbec-Paper.pdf)," in _Neural Information Processing Systems (NeurIPS) 2020_.
 
