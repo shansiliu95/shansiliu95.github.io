@@ -15,7 +15,7 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 * 2013 - 2017: B.E. from Department of Biomedical Engineering, [Beihang University](https://ev.buaa.edu.cn/), China
 
 ## Experience
-* 2023.02 - now: Senior Data Scientist - Conversational AI at Walmart Global Tech.
+* 2023.02 - 2025.04: Senior Data Scientist - Conversational AI at Walmart Global Tech.
 * 2022.05 - 2022.08: Research Intern at Bytedance, Mountain View. My advisor is [Mingbo Ma](http://mingboma.com/). 
 * 2021.05 - 2021.08: Research Intern at Bytedance, Mountain View. My advisor is [Hanoi Hantrakul⁣](https://www.linkedin.com/in/lamtharn-hanoi-hantrakul-0a8946b4/) and [Jitong Chen](http://jitongchen.com/). 
 * 2020.05 - 2020.08: Research Intern at Bytedance, Mountain View. My advisor is [Jitong Chen](http://jitongchen.com/).
