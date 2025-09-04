@@ -15,7 +15,7 @@ I received my bachelor's degree from the Department of Biomedical Engineering, B
 * 2013 - 2017: B.E. from Department of Biomedical Engineering, [Beihang University](https://ev.buaa.edu.cn/), China
 
 ## Experience
-<img src="/assets/img/beihang.png"/><img src="/assets/img/unc.png"/>
+<img src="/assets/img/beihang.png" style="width:80px; height:auto;"/><img src="/assets/img/unc.png" style="width:80px; height:auto;"/>
 * 2025.05 - now: Senior ML Research Engineer at Meta, Audio team in Reality Labs Research. My advisor is [Vamsi Krishna Ithapu](https://scholar.google.com/citations?user=R-q0WzkAAAAJ&hl=en).
 * 2023.02 - 2025.04: Work on NLP and Conversational AI.
 * 2022.05 - 2022.08: Research Intern at Bytedance, Mountain View. My advisor is [Mingbo Ma](http://mingboma.com/). 
