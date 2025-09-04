@@ -9,13 +9,13 @@ I'm Siyuan Shan (单思远) with a Ph.D. degree in Computer Science obtained fro
 I received my bachelor's degree from the Department of Biomedical Engineering, Beihang University in 2017. During undergraduate studying, I was working with Prof. [Yan Xu](https://scholar.google.com/citations?user=D01Xtx4AAAAJ&hl=en), focusing on medical image registration and video text recognition.
 
 ## Education
-<img src="/assets/img/unc.png" style="width:120px; height:auto;"/><img src="/assets/img/beihang.png" style="width:120px; height:auto;"/><img src="/assets/img/ctu.png" style="width:120px; height:auto;"/>
+<img src="/assets/img/unc.png" style="width:120px; height:auto;"/><img src="/assets/img/beihang.png" style="width:120px; height:auto;"/><img src="/assets/img/ctu.png" style="width:160px; height:auto;"/>
 * 2018 - 2022: Ph.D. in Computer Science, [The University of North Carolina at Chapel Hill](https://www.unc.edu/), USA
 * 2015 - 2016: Exchange Student, [Czech Technical University in Prague](https://www.cvut.cz/en), Czech Republic
 * 2013 - 2017: B.E. from Department of Biomedical Engineering, [Beihang University](https://ev.buaa.edu.cn/), China
 
 ## Experience
-<img src="/assets/img/beihang.png" style="width:80px; height:auto;"/><img src="/assets/img/unc.png" style="width:80px; height:auto;"/>
+
 * 2025.05 - now: Senior ML Research Engineer at Meta, Audio team in Reality Labs Research. My advisor is [Vamsi Krishna Ithapu](https://scholar.google.com/citations?user=R-q0WzkAAAAJ&hl=en).
 * 2023.02 - 2025.04: Work on NLP and Conversational AI.
 * 2022.05 - 2022.08: Research Intern at Bytedance, Mountain View. My advisor is [Mingbo Ma](http://mingboma.com/). 
