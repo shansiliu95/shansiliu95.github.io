@@ -9,7 +9,7 @@ I'm Siyuan Shan (单思远) with a Ph.D. degree in Computer Science obtained fro
 I received my bachelor's degree from the Department of Biomedical Engineering, Beihang University in 2017. During undergraduate studying, I was working with Prof. [Yan Xu](https://scholar.google.com/citations?user=D01Xtx4AAAAJ&hl=en), focusing on medical image registration and video text recognition.
 
 ## Education
-<img src="/assets/img/unc.png" style="width:80px; height:auto;"/> <img src="/assets/img/beihang.png" style="width:80px; height:auto;"/> <img src="/assets/img/ctu.png" style="width:210px; height:auto;"/>
+<img src="/assets/img/unc.png" style="width:80px; height:auto;"/> <img src="/assets/img/beihang.png" style="width:80px; height:auto;"/> <img src="/assets/img/ctu.png" style="width:180px; height:auto;"/>
 * 2018 - 2022: Ph.D. in Computer Science, [The University of North Carolina at Chapel Hill](https://www.unc.edu/), USA
 * 2015 - 2016: Exchange Student, [Czech Technical University in Prague](https://www.cvut.cz/en), Czech Republic
 * 2013 - 2017: B.E. from Department of Biomedical Engineering, [Beihang University](https://ev.buaa.edu.cn/), China
